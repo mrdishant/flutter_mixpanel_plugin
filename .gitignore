@@ -1,0 +1,24 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+.idea/
+.idea/libraries/
+
+build/
+pubspec.lock
+**/Podfile.lock
+
+# Directory created by dartdoc
+# If you don't generate documentation locally you can remove this line.
+doc/api/
+
+**/resources/secrets/**
+**/resources/secrets.json
+**/test/resources/secrets/**
+**/test/resources/secrets.json
+**/**/secrets.json
+
+*.iml
